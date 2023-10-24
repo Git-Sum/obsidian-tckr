@@ -516,9 +516,6 @@ class tckrModalManual extends Modal {
 		}
 		if (typeof task.tags !== "undefined") {
 			if (task.tags.length > 0) {
-				console.log(task.tags.length)
-				console.log('here')
-				console.log(task.tags)
 				dataDiv.createEl('p', { text: `Has tags: ${task.tags}`, cls: 'content-text' })
 			}
 		}
