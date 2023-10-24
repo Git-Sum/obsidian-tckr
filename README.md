@@ -20,7 +20,7 @@ Get your TickTicks!
 
 ## Known limitations
 - Tasks must be under a project
-- Checklist items are ready only
+- Checklist items are read only
 - ...
 
 ## Known bugs
