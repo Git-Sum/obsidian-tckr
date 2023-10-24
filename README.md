@@ -23,8 +23,8 @@ Get your TickTicks!
 - Checklist items are ready only
 - ...
 
-##Known bugs
+## Known bugs
 - ...
 
-##Upcoming features
+## Upcoming features
 - ...
