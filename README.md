@@ -4,6 +4,12 @@ Get your TickTicks!
 
 **Note:** This plugin uses the v1 API
 
+## How to use
+1. Click on the checkmark icon
+2. Select your project
+3. Click on a task to expand any available properties
+4. Click the checkbox to mark complete
+
 ## Setup
 
 - Create a Tick Tick App
@@ -20,6 +26,7 @@ Get your TickTicks!
 
 ## Known limitations
 - Tasks must be under a project
+- Completed tasks are not shown
 - Checklist items are read only
 - ...
 
